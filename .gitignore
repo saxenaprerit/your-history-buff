@@ -64,3 +64,7 @@ ENV/
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Environment Variables
+.env
+.env.*

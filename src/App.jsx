@@ -9,7 +9,7 @@ function App() {
   return (
     <div className="app-container">
       <div className="app-header">
-        <h1>Your History Buff</h1>
+        <h1>Historypedia</h1>
       </div>
       <div className="app-content">
         <div className="left-pane">

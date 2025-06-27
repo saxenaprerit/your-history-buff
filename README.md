@@ -1,6 +1,6 @@
-# Your History Buff
+# Historypedia
 
-Your History Buff is an interactive AI-powered web app that helps you explore historical events, figures, and topics. Ask any history question and get informative, conversational answers—plus related images and videos to enrich your learning experience.
+Historypedia is an interactive AI-powered web app that helps you explore historical events, figures, and topics. Ask any history question and get informative, conversational answers—plus related images and videos to enrich your learning experience.
 
 ## Features
 
